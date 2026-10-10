@@ -166,7 +166,7 @@ The model can be extended for deployment in:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/rishee01/forest-fire-detection-cnn.git
+git clone https://github.com/rishee-dev/Forest-Fire-Detection-using-CNN.git
 ```
 
 ### Move into Project
@@ -233,9 +233,9 @@ Forest Fire Detection using Convolutional Neural Networks (CNN)
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishee01&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=rishee-dev&show_icons=true&theme=tokyonight">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishee01&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishee-dev&theme=tokyonight">
 
 </p>
 
